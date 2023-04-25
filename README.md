@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi There! 👋 
 
-<!--
-**otakakot/otakakot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://skillicons.dev/icons?i=go,gcp,github,githubactions,k8s,docker,vscode)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+[![Contributions](https://badgen.org/img/qiita/_otakakot_/contributions?style=plastic)](https://qiita.com/_otakakot_)
+[![Followers](https://badgen.org/img/qiita/_otakakot_/followers?style=plastic)](https://qiita.com/_otakakot_)
+[![Articles](https://badgen.org/img/qiita/_otakakot_/articles?style=plastic)](https://qiita.com/_otakakot_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Likes](https://badgen.org/img/zenn/otakakot/likes?style=plastic)](https://zenn.dev/otakakot)
+[![Followers](https://badgen.org/img/zenn/otakakot/followers?style=plastic)](https://zenn.dev/otakakot)
+[![Articles](https://badgen.org/img/zenn/otakakot/articles?style=plastic)](https://zenn.dev/otakakot)
+[![Books](https://badgen.org/img/zenn/otakakot/books?style=plastic)](https://zenn.dev/otakakot?tab=books)
+[![Scraps](https://badgen.org/img/zenn/otakakot/scraps?style=plastic)](https://zenn.dev/otakakot?tab=scraps)
