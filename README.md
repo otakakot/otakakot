@@ -1,6 +1,17 @@
 # Hi There! 👋 
 
-[![](https://skillicons.dev/icons?i=go,gcp,github,githubactions,k8s,docker,vscode)](https://skillicons.dev)
+Gopher is cute!
+
+[![](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+
+## My Favorite Go Basic Package : [context](https://pkg.go.dev/context)
+
+## My Favorite Go Library : [github.com/golang/mock](https://github.com/golang/mock)
+
+---
+
+[![](https://skillicons.dev/icons?i=gcp,github,githubactions,k8s,docker,vscode)](https://skillicons.dev)
+
 
 [![Contributions](https://badgen.org/img/qiita/_otakakot_/contributions?style=plastic)](https://qiita.com/_otakakot_)
 [![Followers](https://badgen.org/img/qiita/_otakakot_/followers?style=plastic)](https://qiita.com/_otakakot_)
