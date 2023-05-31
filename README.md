@@ -4,7 +4,7 @@ Gopher is cute!
 
 [![](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
-## My Favorite Go Basic Package : [context](https://pkg.go.dev/context)
+## My Favorite Go Standard Library : [context](https://pkg.go.dev/context)
 
 ## My Favorite Go Library : [github.com/golang/mock](https://github.com/golang/mock)
 
