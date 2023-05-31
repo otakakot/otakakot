@@ -8,10 +8,11 @@ Gopher is cute!
 
 ## My Favorite Go Library : [github.com/golang/mock](https://github.com/golang/mock)
 
----
+# Other Skills
 
 [![](https://skillicons.dev/icons?i=gcp,github,githubactions,k8s,docker,vscode)](https://skillicons.dev)
 
+# Articles
 
 [![Contributions](https://badgen.org/img/qiita/_otakakot_/contributions?style=plastic)](https://qiita.com/_otakakot_)
 [![Followers](https://badgen.org/img/qiita/_otakakot_/followers?style=plastic)](https://qiita.com/_otakakot_)
