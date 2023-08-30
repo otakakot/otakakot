@@ -1,4 +1,4 @@
-# [otakakot](https://otakakot.vercel.app/)
+# [otakakot](https://otakakot.tokyo)
 
 # Hi There! 👋 
 
