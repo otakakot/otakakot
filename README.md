@@ -8,7 +8,7 @@ Gopher is cute!
 
 ## My Favorite Go Standard Library : [context](https://pkg.go.dev/context)
 
-## My Favorite Go Library : [github.com/golang/mock](https://github.com/golang/mock)
+## My Favorite Go Library : ~~[golang/mock](https://github.com/golang/mock)~~ [uber-go/mock](https://github.com/uber-go/mock)
 
 # Other Skills
 
