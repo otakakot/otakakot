@@ -6,13 +6,17 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.center}>
         <Image
-          className={styles.logo}
-          src="/profile.svg"
-          alt="Profile Logo"
-          width={200}
-          height={200}
-          priority
+          src="/profile.png"
+          alt="Profile"
+          width={300}
+          height={300}
         />
+      </div>
+      <div>
+        <a href='https://go.dev/blog/gopher'>The Go gopher</a> was designed by <a href='https://www.instagram.com/reneefrench/'>Renée French</a>.
+      </div>
+      <div>
+        The icon was designed by <a href='https://twitter.com/avocadoneko'>@avocadoneko</a>.
       </div>
       <div className={styles.grid}>
       <a
