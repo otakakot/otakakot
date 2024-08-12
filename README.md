@@ -1,4 +1,4 @@
-<img src="README/public/profile.png" width="50%" />
+<img src="public/profile.png" width="50%" />
 
 [The Go gopher](https://go.dev/blog/gopher) was designed by [Renée French](https://www.instagram.com/reneefrench/).
 The icon was designed by [@avocadoneko](https://twitter.com/avocadoneko).
