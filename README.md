@@ -13,8 +13,6 @@ Gopher is cute!
 
 ## My Favorite Go Standard Library : [httptest](https://pkg.go.dev/net/http/httptest)
 
-## My Favorite Go Library : ~~[golang/mock](https://github.com/golang/mock)~~ [uber-go/mock](https://github.com/uber-go/mock)
-
 # Other Skills
 
 [![](https://skillicons.dev/icons?i=gcp,github,githubactions,k8s,docker,vscode)](https://skillicons.dev)
