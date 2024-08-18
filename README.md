@@ -11,7 +11,7 @@ Gopher is cute!
 
 [![](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
-## My Favorite Go Standard Library : [httptest](https://pkg.go.dev/net/http/httptest)
+## My Favorite Go Standard Library : [net/http/httptest](https://pkg.go.dev/net/http/httptest)
 
 # Other Skills
 
