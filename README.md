@@ -1,6 +1,6 @@
 <img src="profile.png" width="50%" />
 
-[The Go gopher](https://go.dev/blog/gopher) was designed by [Renée French](https://www.instagram.com/reneefrench/).
+[The Go gopher](https://go.dev/blog/gopher) was designed by [Renée French](https://reneefrench.blogspot.com/).
 The icon was designed by [@avocadoneko](https://twitter.com/avocadoneko).
 
 # [otakakot](https://otakakot.tokyo)
